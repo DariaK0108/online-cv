@@ -88,21 +88,22 @@ education:
           
           
 
-    - degree: EDX MOOC AE1110x "Introduction to Aeronautical Engineering"
-      university: DelftX (Delft University of Technology through edX)
-      time: 2018
-      
-    - degree: EDX MOOC 16.00x "Introduction to Aerospace Engineering. Astronautics and Human Spaceflight"
-      university: MITx (Massachusetts Institute of Technology through edX)
-      time: 2017
-      
-    - degree: EDX MOOC ChM003x - "Sensing Planet Earth – from Core to Outer Space" 
-      university: ChalmersX (Chalmers University of Technology through edX)
-      time: 2017
-      
-    - degree: EDX MOOC EE585x "Space Mission Design and Operations" 
-      university: EPFLx (Ecole Polytechnique Federale de Lausanne through edX)
-      time: 2017
+    - degree: EDX MOOCs 
+      university: 
+      time: 
+      details: | 
+          
+          - AE1110x "Introduction to Aeronautical Engineering" offered by DelftX (Delft University of Technology 
+            through edX), 2018
+            
+          - 16.00x "Introduction to Aerospace Engineering. Astronautics and Human Spaceflight" offered by 
+            MITx (Massachusetts Institute of Technology through edX), 2017
+     
+          - ChM003x "Sensing Planet Earth – from Core to Outer Space" offered by ChalmersX (Chalmers University 
+            of Technology through edX), 2017
+
+          - EE585x "Space Mission Design and Operations" offered by EPFLx (Ecole Polytechnique Federale de 
+            Lausanne through edX), 2017
 
 
      
@@ -139,6 +140,7 @@ projects:
       - title: Modelling the Madden–Julian Oscillation (MJO) during its passage 
                over the Indian Ocean and the Maritime Continent (2015–2018)
         #link: "#hook"
+        
         tagline: "The simulations with and without convective parameterizations 
                 were performed for a large domain with the atmospheric model Meso-NH 
                 for three time periods of the MJO activity. It was obtained that the 
@@ -149,6 +151,7 @@ projects:
 
       - title: Prediction of the impact consequences based on observations of meteoroids (2012–2015)
         #link: "#"
+        
         tagline: "The method to describe the impact consequences for the collisions of cosmic bodies 
         with the surface of a planet is proposed, which allows determining possible crater formation 
         or existence of meteorite survivors on the ground. This method is based on the fireball aerodynamic 
@@ -156,12 +159,14 @@ projects:
         of the atmospheric trajectories."
 
       - title: Review and analytical investigation of the influence of roughness and blowing on the turbulent boundary layer (2012–2013)
+      
         tagline: "The aim of this study was the modification of the Spalart-Allmaras turbulence model, which is used 
         for simulation the boundary layer on a flat plate with a rough surface, in order to add to this model the effect 
         of blowing. As a result, a review of different approaches taking into account roughness or blowing was done and some 
         hypotheses are proposed."
         
       - title: Transition to chaotic motions in penetrative convection (2007-2012)
+      
         tagline: "The research is focused on the investigation of the convection in water, which have quadratic 
         density-temperature dependence with a maximum at nearly 4°C. The properties of the motions and the transition 
         to chaos are investigated numerically for the plane horizontal layer of water with stress-free boundary conditions 
