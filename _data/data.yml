@@ -56,13 +56,7 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-
-      Second paragraph if required.
+      .
 
 education:
     
@@ -75,7 +69,7 @@ education:
 
           - Audited several meteorology- and climate-related courses 
             (Cloud physics, Climatic system, Geophysical fluid dynamics) 
-            at ENM – National School of Meteorology, Météo-France, Toulouse 
+            at ENM – National School of Meteorology, Meteo-France, Toulouse 
           - Audited several courses in other disciplines (Spatial dynamics, 
             System Engineering) at ISAE-SUPAERO – National Higher French 
             Institute of Aeronautics and Space, Toulouse
@@ -92,22 +86,22 @@ education:
             Analytic Geometry, Numerical Methods, General Physics, Gas and 
             Fluid Dynamics, Foundations of Cosmic Plasma, Orbital Mechanics etc)  
           
-          #- Bullet point
+          
 
-    - degree: EDX course of study AE1110x "Introduction to Aeronautical Engineering"
-      university: DelftX, an online learning initiative of Delft University of Technology through edX.
+    - degree: EDX MOOC AE1110x "Introduction to Aeronautical Engineering"
+      university: DelftX (Delft University of Technology through edX)
       time: 2018
       
-    - degree: EDX course of study 16.00x "Introduction to Aerospace Engineering. Astronautics and Human Spaceflight"
-      university: MITx, an online learning initiative of the Massachusetts Institute of Technology through edX.
+    - degree: EDX MOOC 16.00x "Introduction to Aerospace Engineering. Astronautics and Human Spaceflight"
+      university: MITx (Massachusetts Institute of Technology through edX)
       time: 2017
       
-    - degree: EDX course of study ChM003x - "Sensing Planet Earth – from Core to Outer Space" 
-      university: ChalmersX, an online learning initiative of Chalmers University of Technology through edX.
+    - degree: EDX MOOC ChM003x - "Sensing Planet Earth – from Core to Outer Space" 
+      university: ChalmersX (Chalmers University of Technology through edX)
       time: 2017
       
-    - degree: EDX course of study EE585x "Space Mission Design and Operations" 
-      university: EPFLx, an online learning initiative of Ecole Polytechnique Federale de Lausanne through edX.
+    - degree: EDX MOOC EE585x "Space Mission Design and Operations" 
+      university: EPFLx (Ecole Polytechnique Federale de Lausanne through edX)
       time: 2017
 
 
@@ -128,8 +122,7 @@ experiences:
       company: Dorodnitsyn Computing Center of the Russian Academy of Sciences, Moscow, Russia
       details: |
         
-
-          
+    
 
     - role: Junior Research Scientist
       time: 2010 - 2014
@@ -139,10 +132,8 @@ experiences:
 
 projects:
     title: Research Projects
-    intro: >
-      #You can list your side projects or open source libraries in this
-      #section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      #Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+    intro: > 
+      
 
     assignments:
       - title: Modelling the Madden–Julian Oscillation (MJO) during its passage 
@@ -179,9 +170,7 @@ projects:
 publications:
     title: Publications in international peer-reviewed journals
     intro: |
-      #You can list your publications in this section. Lorem ipsum dolor sit
-      #amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      #bibendum fringilla a eu lectus.
+      
 
     papers:
       - title: The three atmospheric circulations over the Indian Ocean and the Maritime Continent and their modulation by the passage of the MJO
@@ -194,7 +183,7 @@ publications:
 
       - title: Transitional modes of penetrative convection in plane layer
         authors: D. Kuznetsova, I. Sibgatullin
-        conference: "2012, Fluid Dynamics Research. V. 44, 031410"
+        conference: "2012, Fluid Dynamics Research, V. 44, 031410"
         
       - title: Transitional regimes of penetrative convection in a plain layer
         authors: D. Kuznetsova, I. Sibgatullin
