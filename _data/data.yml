@@ -3,45 +3,54 @@
 #
 
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: True # set to False if you want education in main section instead of in sidebar
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    education: False # set to False if you want education in main section instead of in sidebar
 
     # Profile information
     name: Alan Doe
-    tagline: Full Stack Developer
+    # tagline: Full Stack Developer
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    github: sharu725
+    email: daria.kuznetsova.aero.obs.mip AT gmail.com
+    phone: # 012 345 6789
+    website: # blog.webjeda.com #do not add http://
+    linkedin: # alandoe
+    github: DariaK0108
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
+    twitter: # '@webjeda'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
 
     languages:
-      - idiom: English
+      - idiom: Russian
         level: Native
 
       - idiom: French
         level: Professional
 
-      - idiom: Spanish
+      - idiom: English
         level: Professional
+        
+      - idiom: Hindi
+        level: Intermediate   
 
+      - idiom: Tamil
+        level: Beginner
+        
+      - idiom: Bengali
+        level: Beginner
+        
     interests:
-      - item: Climbing
+      - item: Languages
         link:
 
-      - item: Snowboarding
+      - item: Photography 
         link:
 
-      - item: Cooking
+      - item: Science popularization
         link:
 
 career-profile:
@@ -56,145 +65,169 @@ career-profile:
       Second paragraph if required.
 
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    
+    - degree: Ph.D. in Meteorology 
+      university: University of Toulouse (Paul Sabatier)
+      time: 2015 - 2018
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
+        Ph.D. thesis: "Modelling the Madden-Julian Oscillation (MJO) during 
+        its passage over the Indian Ocean and the Maritime Continent".
 
-          - Bullet point
-          - Bullet point
+          - Audited several meteorology- and climate-related courses 
+            (Cloud physics, Climatic system, Geophysical fluid dynamics) 
+            at ENM – National School of Meteorology, Météo-France, Toulouse 
+          - Audited several courses in other disciplines (Spatial dynamics, 
+            System Engineering) at ISAE-SUPAERO – National Higher French 
+            Institute of Aeronautics and Space, Toulouse
 
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
+    
+    - degree: M.Sc. in Fluid Mechanics (high honors)
+      university: Moscow State University
+      time: 2005 - 2010
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
+        Master's thesis: "Penetrative convection in plane layer".
+        
 
-          - Bullet point
-          - Bullet point
+          - Took various mathematics- and mechanics-related courses (Calculus, 
+            Analytic Geometry, Numerical Methods, General Physics, Gas and 
+            Fluid Dynamics, Foundations of Cosmic Plasma, Orbital Mechanics etc)  
+          
+          #- Bullet point
 
+    - degree: EDX course of study AE1110x: Introduction to Aeronautical Engineering
+      university: DelftX, an online learning initiative of Delft University of Technology through edX.
+      time: 2018
+      
+    - degree: EDX course of study 16.00x: Introduction to Aerospace Engineering: Astronautics and Human Spaceflight
+      university: MITx, an online learning initiative of the Massachusetts Institute of Technology through edX.
+      time: 2017
+      
+    - degree: EDX course of study ChM003x: Sensing Planet Earth – from Core to Outer Space 
+      university: ChalmersX, an online learning initiative of Chalmers University of Technology through edX.
+      time: 2017
+      
+    - degree: EDX course of study EE585x: Space Mission Design and Operations 
+      university: EPFLx, an online learning initiative of Ecole Polytechnique Federale de Lausanne through edX.
+      time: 2017
+
+
+     
+    
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Ph.D., specialization "Atmosphere, Ocean, Climate"
+      time: 2015 - 2018
+      company: Laboratoire d'Aerologie, Observatoire Midi-Pyrenees, 
+               Universite Paul Sabatier, Toulouse, France
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
+        
 
-          - Bullet point
-          - Bullet point
+    
 
-    - role: Senior Software Engineer
+    - role: Research Assistant
       time: 2014 - 2015
-      company: Google, London
+      company: Dorodnitsyn Computing Center of the Russian Academy of Sciences, Moscow, Russia
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
+        
 
-          - Bullet point
-          - Bullet point
+          
 
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+    - role: Junior Research Scientist
+      time: 2010 - 2014
+      company: Institute of Mechanics of the Lomonosov Moscow State University, Moscow, Russia
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-
-          - Bullet point
-          - Bullet point
+     
 
 projects:
-    title: Projects
+    title: Research Projects
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      #You can list your side projects or open source libraries in this
+      #section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+      #Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
 
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: Modelling the Madden–Julian Oscillation (MJO) during its passage 
+               over the Indian Ocean and the Maritime Continent (2015–2018)
+        #link: "#hook"
+        tagline: "The simulations with and without convective parameterizations 
+                were performed for a large domain with the atmospheric model Meso-NH 
+                for three time periods of the MJO activity. It was obtained that the 
+                simulations with parameterized convection were not able to reproduce 
+                an MJO signal. During the suppressed MJO phase, large-scale dry air 
+                intrusions from the subtropical zones were described using an isentropic 
+                analysis."
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+      - title: Prediction of the impact consequences based on observations of meteoroids (2012–2015)
+        #link: "#"
+        tagline: "The method to describe the impact consequences for the collisions of cosmic bodies 
+        with the surface of a planet is proposed, which allows determining possible crater formation 
+        or existence of meteorite survivors on the ground. This method is based on the fireball aerodynamic 
+        equations and uses the body deceleration rate in the atmosphere and the data known from observations 
+        of the atmospheric trajectories."
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
+      - title: Review and analytical investigation of the influence of roughness and blowing on the turbulent boundary layer (2012–2013)
+        tagline: "The aim of this study was the modification of the Spalart-Allmaras turbulence model, which is used 
+        for simulation the boundary layer on a flat plate with a rough surface, in order to add to this model the effect 
+        of blowing. As a result, a review of different approaches taking into account roughness or blowing was done and some 
+        hypotheses are proposed."
+        
+      - title: Transition to chaotic motions in penetrative convection (2007-2012)
+        tagline: "The research is focused on the investigation of the convection in water, which have quadratic 
+        density-temperature dependence with a maximum at nearly 4°C. The properties of the motions and the transition 
+        to chaos are investigated numerically for the plane horizontal layer of water with stress-free boundary conditions 
+        by means of the pseudospectral method, the bifurcation theory was applied to explain the obtained results."
+        
 publications:
-    title: Publications
+    title: Publications in international peer-reviewed journals
     intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+      #You can list your publications in this section. Lorem ipsum dolor sit
+      #amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
+      #bibendum fringilla a eu lectus.
 
     papers:
-      - title: The Art of Computer Programming
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+      - title: The three atmospheric circulations over the Indian Ocean and the Maritime Continent and their modulation by the passage of the MJO
+        authors: D. Kuznetsova, T. Dauhut, J.-P. Chaboureau
+        conference: "2019, Journal of the Atmospheric Sciences, V. 76(2), pp. 517–531"
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+      - title: Estimation of the initial shape of meteoroids based on statistical distributions of fragment masses
+        authors: V. Vinnikov, M. Gritsevich, D. Kuznetsova, L. Turchak.
+        conference: "2016, Doklady Physics, V. 61, No. 6, pp. 305-308"
 
-      - title: A syntax directed compiler for Algol 60
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+      - title: Transitional modes of penetrative convection in plane layer
+        authors: D. Kuznetsova, I. Sibgatullin
+        conference: "2012, Fluid Dynamics Research. V. 44, 031410"
+        
+      - title: Transitional regimes of penetrative convection in a plain layer
+        authors: D. Kuznetsova, I. Sibgatullin
+        conference: "2011, Doklady Physics, V. 56, No. 5, pp. 271-274"
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
+      - name: C/C++
+        level: 90%
 
-      - name: Javascript & jQuery
-        level: 98%
+      - name: LaTeX
+        level: 90%
+        
+      - name: Matlab
+        level: 90%
 
-      - name: Angular
-        level: 98%
+      - name: NCL
+        level: 90%
 
-      - name: HTML5 & CSS
-        level: 95%
+      - name: OpenFOAM
+        level: 40%
+        
+      - name: Python
+        level: 40%
 
-      - name: Ruby on Rails
-        level: 85%
+      - name: Fortran
+        level: 40%
+                
+      - name: HTML&CSS
+        level: 20%
 
-      - name: Sketch & Photoshop
-        level: 60%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
