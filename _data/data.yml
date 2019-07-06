@@ -38,10 +38,10 @@ sidebar:
         level: Intermediate   
 
       - idiom: Tamil
-        level: Beginner
+        level: Basic
         
       - idiom: Bengali
-        level: Beginner
+        level: Basic
         
     interests:
       - item: Languages
@@ -52,6 +52,10 @@ sidebar:
 
       - item: Science popularization
         link:
+      
+      - item: Web design
+        link:
+        
 
 career-profile:
     title: Career Profile
@@ -141,36 +145,25 @@ projects:
                over the Indian Ocean and the Maritime Continent (2015–2018)
         #link: "#hook"
         
-        tagline: "The simulations with and without convective parameterizations 
-                were performed for a large domain with the atmospheric model Meso-NH 
-                for three time periods of the MJO activity. It was obtained that the 
-                simulations with parameterized convection were not able to reproduce 
-                an MJO signal. During the suppressed MJO phase, large-scale dry air 
-                intrusions from the subtropical zones were described using an isentropic 
-                analysis."
+        tagline: "Analyzed the simulations of the MJO activity performed with the atmospheric model Meso-NH and compared them 
+        with TRMM satellite data (data analysis and vizualisation was done with NCL)."
 
       - title: Prediction of the impact consequences based on observations of meteoroids (2012–2015)
         #link: "#"
         
-        tagline: "The method to describe the impact consequences for the collisions of cosmic bodies 
-        with the surface of a planet is proposed, which allows determining possible crater formation 
-        or existence of meteorite survivors on the ground. This method is based on the fireball aerodynamic 
-        equations and uses the body deceleration rate in the atmosphere and the data known from observations 
-        of the atmospheric trajectories."
+        tagline: "Participated in the development of the analytical method for describing the impact consequences of
+        the collisions of cosmic bodies with the surface of a planet. Wrote the code in Matlab for the application of this method 
+        to real meteoroid data."
 
       - title: Review and analytical investigation of the influence of roughness and blowing on the turbulent boundary layer (2012–2013)
       
-        tagline: "The aim of this study was the modification of the Spalart-Allmaras turbulence model, which is used 
-        for simulation the boundary layer on a flat plate with a rough surface, in order to add to this model the effect 
-        of blowing. As a result, a review of different approaches taking into account roughness or blowing was done and some 
-        hypotheses are proposed."
+        tagline: "Made a review of different approaches for simulation the boundary layer on a flat plate with a rough surface. 
+        Proposed a hypothesis for the modification of the Spalart-Allmaras turbulence model in case of blowing."
         
       - title: Transition to chaotic motions in penetrative convection (2007-2012)
       
-        tagline: "The research is focused on the investigation of the convection in water, which have quadratic 
-        density-temperature dependence with a maximum at nearly 4°C. The properties of the motions and the transition 
-        to chaos are investigated numerically for the plane horizontal layer of water with stress-free boundary conditions 
-        by means of the pseudospectral method, the bifurcation theory was applied to explain the obtained results."
+        tagline: "Investigated numerically the transition to turbulence for the plane horizontal layer of water. Wrote the code in C/C++ 
+        based on the pseudospectral method."
         
 publications:
     title: Publications in international peer-reviewed journals
