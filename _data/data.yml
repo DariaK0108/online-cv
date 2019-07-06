@@ -94,19 +94,19 @@ education:
           
           #- Bullet point
 
-    - degree: EDX course of study AE1110x - Introduction to Aeronautical Engineering
+    - degree: EDX course of study AE1110x "Introduction to Aeronautical Engineering"
       university: DelftX, an online learning initiative of Delft University of Technology through edX.
       time: 2018
       
-    - degree: EDX course of study 16.00x - Introduction to Aerospace Engineering: Astronautics and Human Spaceflight
+    - degree: EDX course of study 16.00x "Introduction to Aerospace Engineering. Astronautics and Human Spaceflight"
       university: MITx, an online learning initiative of the Massachusetts Institute of Technology through edX.
       time: 2017
       
-    - degree: EDX course of study ChM003x - Sensing Planet Earth – from Core to Outer Space 
+    - degree: EDX course of study ChM003x - "Sensing Planet Earth – from Core to Outer Space" 
       university: ChalmersX, an online learning initiative of Chalmers University of Technology through edX.
       time: 2017
       
-    - degree: EDX course of study EE585x - Space Mission Design and Operations 
+    - degree: EDX course of study EE585x "Space Mission Design and Operations" 
       university: EPFLx, an online learning initiative of Ecole Polytechnique Federale de Lausanne through edX.
       time: 2017
 
