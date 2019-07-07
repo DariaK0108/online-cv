@@ -194,11 +194,11 @@ skills:
       - name: C/C++, Fortran, Python 
         level:
         
-     - name: Matlab, NCL, OpenFOAM
-       level:
+      - name: Matlab, NCL, OpenFOAM
+        level:
      
-     - name: LaTeX, HTML
-      level:
+      - name: LaTeX, HTML
+        level:
       
       #- name: HTML&CSS
         
