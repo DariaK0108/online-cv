@@ -190,8 +190,9 @@ publications:
 skills:
     title: Skills #&amp; Proficiency
 
-    toolset:
+    #toolset:
       #- name: 
+    intro: >
       C/C++, Fortran, LaTeX, Matlab, NCL, OpenFOAM, Python, HTML&CSS
         #level: 90%
 
