@@ -68,8 +68,8 @@ education:
       university: University of Toulouse (Paul Sabatier)
       time: 2015 - 2018
       details: |
-        Ph.D. thesis: "Modelling the Madden-Julian Oscillation (MJO) during 
-        its passage over the Indian Ocean and the Maritime Continent".
+        Ph.D. thesis: <a href="http://thesesups.ups-tlse.fr/4099" target="_blank" rel="nofollow"> "Modelling the Madden-Julian Oscillation (MJO) during 
+        its passage over the Indian Ocean and the Maritime Continent"</a>.
 
           - Audited several meteorology- and climate-related courses 
             (Cloud physics, Climatic system, Geophysical fluid dynamics) 
@@ -171,19 +171,19 @@ publications:
       
 
     papers:
-      - title: <a href="https://doi.org/10.1175/JAS-D-18-0188.1" target="_blank" rel="nofollow"> The three atmospheric circulations over the Indian Ocean and the Maritime Continent and their modulation by the passage of the MJO</a>
+      - title: <a href="https://doi.org/10.1175/JAS-D-18-0188.1" target="_blank" rel="nofollow">The three atmospheric circulations over the Indian Ocean and the Maritime Continent and their modulation by the passage of the MJO</a>
         authors: D. Kuznetsova, T. Dauhut, J.-P. Chaboureau
         conference: "2019, Journal of the Atmospheric Sciences, V. 76(2), pp. 517–531"
 
-      - title: Estimation of the initial shape of meteoroids based on statistical distributions of fragment masses
-        authors: V. Vinnikov, M. Gritsevich, D. Kuznetsova, L. Turchak.
+      - title: <a href="https://doi.org/10.1134/S1028335816060021" target="_blank" rel="nofollow">Estimation of the initial shape of meteoroids based on statistical distributions of fragment masses</a>
+        authors: V. Vinnikov, M. Gritsevich, D. Kuznetsova, L. Turchak
         conference: "2016, Doklady Physics, V. 61, No. 6, pp. 305-308"
 
-      - title: Transitional modes of penetrative convection in plane layer
+      - title: <a href="https://doi.org/10.1088/0169-5983/44/3/031410" target="_blank" rel="nofollow">Transitional modes of penetrative convection in plane layer</a>
         authors: D. Kuznetsova, I. Sibgatullin
         conference: "2012, Fluid Dynamics Research, V. 44, 031410"
         
-      - title: Transitional regimes of penetrative convection in a plain layer
+      - title: <a href="https://doi.org/10.1134/S102833581105003X" target="_blank" rel="nofollow">Transitional regimes of penetrative convection in a plain layer</a>
         authors: D. Kuznetsova, I. Sibgatullin
         conference: "2011, Doklady Physics, V. 56, No. 5, pp. 271-274"
 
