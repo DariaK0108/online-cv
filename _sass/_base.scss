@@ -209,6 +209,7 @@ p {
             margin-bottom: 30px;
         }
         .item {
+            margin-top: 10px; /* DK */
             margin-bottom: 15px;
         }
     }
@@ -245,14 +246,15 @@ p {
         margin-top: 0;
         margin-bottom: 12px;
     }
+    /* DK */
     .level-bar {
-        height: 12px;
+        height: 0; /*12px;*/
         background: $smoky-white;
     }
     .level-bar-inner {
-        height: 12px;
+        height: 0; /*12px;*/
         background: lighten($theme-color, 15%);
-    }
+    } 
 }
 
 
