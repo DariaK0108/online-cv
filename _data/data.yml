@@ -191,12 +191,9 @@ skills:
     title: Skills #&amp; Proficiency
 
     toolset:
-      - name: 
-        C/C++, Fortran, Python 
-      - name: 
-        LaTeX, Matlab, NCL, OpenFOAM
-      - name:
-        HTML&CSS
+      name: C/C++, Fortran, Python 
+      name: LaTeX, Matlab, NCL, OpenFOAM
+      #- name: HTML&CSS
         
       #level: 90%
 
