@@ -192,7 +192,7 @@ skills:
 
     #toolset:
       #- name: 
-    intro: >
+    intro: |
       C/C++, Fortran, LaTeX, Matlab, NCL, OpenFOAM, Python, HTML&CSS
         #level: 90%
 
