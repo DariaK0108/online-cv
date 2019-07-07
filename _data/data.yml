@@ -190,7 +190,7 @@ publications:
 skills:
     title: Skills #&amp; Proficiency
 
-    #toolset:
+    toolset:
       - name: 
         C/C++, Fortran, Python 
       - name: 
