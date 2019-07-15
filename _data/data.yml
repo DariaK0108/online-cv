@@ -148,7 +148,7 @@ projects:
         #link: "#hook"
         
         tagline: "Analyzed the simulations of the MJO activity performed with the atmospheric model Meso-NH and compared them 
-        with TRMM satellite data (data analysis and vizualisation was done with NCL)."
+        with TRMM satellite data (data analysis and visualisation was done with NCL)."
 
       - title: Prediction of the impact consequences based on observations of meteoroids (2012–2015)
         #link: "#"
