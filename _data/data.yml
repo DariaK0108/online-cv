@@ -47,13 +47,13 @@ sidebar:
       - item: Languages
         link:
 
-      - item: Photography
+      - item: <u>Photography</u>
         link: https://www.flickr.com/photos/daria-scientist/
 
-      - item: Science popularization
+      - item: Web design
         link:
       
-      - item: Creative coding
+      - item: <u>Creative coding</u>
         link: https://www.openprocessing.org/user/189183
         
 
@@ -162,19 +162,19 @@ publications:
       
 
     papers:
-      - title: The three atmospheric circulations over the Indian Ocean and the Maritime Continent and their modulation by the passage of the MJO - <a href="https://doi.org/10.1175/JAS-D-18-0188.1" target="_blank" rel="nofollow"><em>link</em></a> 
+      - title: <a href="https://doi.org/10.1175/JAS-D-18-0188.1" target="_blank" rel="nofollow"><em><u>The three atmospheric circulations over the Indian Ocean and the Maritime Continent and their modulation by the passage of the MJO</u></em></a> 
         authors: D. Kuznetsova, T. Dauhut, J.-P. Chaboureau
         conference: "2019, Journal of the Atmospheric Sciences, V. 76(2), pp. 517–531"
 
-      - title: Estimation of the initial shape of meteoroids based on statistical distributions of fragment masses - <a href="https://doi.org/10.1134/S1028335816060021" target="_blank" rel="nofollow"><em>link</em></a> 
+      - title: <a href="https://doi.org/10.1134/S1028335816060021" target="_blank" rel="nofollow"><em><u>Estimation of the initial shape of meteoroids based on statistical distributions of fragment masses</u></em></a> 
         authors: V. Vinnikov, M. Gritsevich, D. Kuznetsova, L. Turchak
         conference: "2016, Doklady Physics, V. 61, No. 6, pp. 305-308"
 
-      - title: Transitional modes of penetrative convection in plane layer - <a href="https://doi.org/10.1088/0169-5983/44/3/031410" target="_blank" rel="nofollow"><em>link</em></a>
+      - title: <a href="https://doi.org/10.1088/0169-5983/44/3/031410" target="_blank" rel="nofollow"><em><u>Transitional modes of penetrative convection in plane layer</u></em></a>
         authors: D. Kuznetsova, I. Sibgatullin
         conference: "2012, Fluid Dynamics Research, V. 44, 031410"
         
-      - title:  Transitional regimes of penetrative convection in a plain layer - <a href="https://doi.org/10.1134/S102833581105003X" target="_blank" rel="nofollow"><em>link</em></a>
+      - title:  <a href="https://doi.org/10.1134/S102833581105003X" target="_blank" rel="nofollow"><em><u>Transitional regimes of penetrative convection in a plain layer</u></em></a>
         authors: D. Kuznetsova, I. Sibgatullin
         conference: "2011, Doklady Physics, V. 56, No. 5, pp. 271-274"
 
