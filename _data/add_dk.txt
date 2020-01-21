@@ -1,0 +1,6 @@
+        - DA0101EN "Data Analysis with Python" offered by CognitiveClass, 2019 -
+            <a href="https://courses.cognitiveclass.ai/certificates/8320ce72bf9146ac8e06483a3504ffa5" target="_blank" rel="nofollow"><em>link</em></a> 
+                     
+         - DV0101EN "Visualizing Data with Python" offered by IBM through edX, 2019 - 
+            <a href="https://courses.edx.org/certificates/2eb85ada43dc45e8bf31c24e78ad4853" target="_blank" rel="nofollow"><em>link</em></a> 
+  
