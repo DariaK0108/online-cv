@@ -47,13 +47,13 @@ sidebar:
       - item: Languages
         link:
 
-      - item: Photography 
+      - item: <u>Photography<\u>
         link: https://www.flickr.com/photos/daria-scientist/
 
       - item: Science popularization
         link:
       
-      - item: Creative coding #<a href="http://thesesups.ups-tlse.fr/4099" target="_blank" rel="nofollow"> <em>link</em></a>
+      - item: <u>Creative coding<\u>
         link: https://www.openprocessing.org/user/189183
         
 
@@ -93,26 +93,27 @@ education:
       time: 
       details: | 
       
-          - Badge "Applied Data Science with Python - Level 2" issued by IBM (includes courses "Python for Datascience," 
-                    "Data Analysis with Python," "Data Visualization with Python"), 2020 <a href="https://www.youracclaim.com/badges/489f135e-8d00-4dad-997e-b456f006d576/" target="_blank" rel="nofollow"><em>link</em></a> 
+          - Badge <a href="https://www.youracclaim.com/badges/489f135e-8d00-4dad-997e-b456f006d576/" target="_blank" rel="nofollow"><em><u>"Applied Data Science with Python - Level 2"</u></em></a> issued by IBM (includes courses "Python for Datascience," 
+                    "Data Analysis with Python," "Data Visualization with Python"), 2020  
                      
-          - AE1110x "Introduction to Aeronautical Engineering" offered by DelftX (Delft University of Technology 
-            through edX), 2018 - 
-            <a href="https://courses.edx.org/certificates/user/14979173/course/course-v1:DelftX+AE1110x+2T2017" target="_blank" rel="nofollow"><em>link</em></a> 
-           
-          - 16.00x "Introduction to Aerospace Engineering. Astronautics and Human Spaceflight" offered by 
-            MITx (Massachusetts Institute of Technology through edX), 2017 - 
-            <a href="https://courses.edx.org/certificates/user/14979173/course/course-v1:MITx+16.00x+3T2017" target="_blank" rel="nofollow"><em>link</em></a> 
+          - AE1110x <a href="https://courses.edx.org/certificates/user/14979173/course/course-v1:DelftX+AE1110x+2T2017" target="_blank" rel="nofollow"><em><u>"Introduction to Aeronautical Engineering"</u></em></a> 
+            offered by DelftX (Delft University of Technology 
+            through edX), 2018
+                       
+          - 16.00x <a href="https://courses.edx.org/certificates/user/14979173/course/course-v1:MITx+16.00x+3T2017" target="_blank" rel="nofollow"><em> 
+            <u>"Introduction to Aerospace Engineering. Astronautics and Human Spaceflight"</u></em></a> offered by 
+            MITx (Massachusetts Institute of Technology through edX), 2017 
+            </em></a> 
            
      
-          - ChM003x "Sensing Planet Earth – from Core to Outer Space" offered by ChalmersX (Chalmers University 
-            of Technology through edX), 2017 -
-            <a href="https://courses.edx.org/certificates/user/14979173/course/course-v1:ChalmersX+ChM003x+1T2017" target="_blank" rel="nofollow"><em>link</em></a> 
-            
+          - ChM003x <a href="https://courses.edx.org/certificates/user/14979173/course/course-v1:ChalmersX+ChM003x+1T2017" target="_blank" rel="nofollow">
+            <em><u>"Sensing Planet Earth – from Core to Outer Space"</u></em></a> offered by ChalmersX (Chalmers University 
+            of Technology through edX), 2017
+                       
 
-          - EE585x "Space Mission Design and Operations" offered by EPFLx (Ecole Polytechnique Federale de 
-            Lausanne through edX), 2017 -
-            <a href="https://courses.edx.org/certificates/user/14979173/course/course-v1:EPFLx+EE585x+1T2018" target="_blank" rel="nofollow"><em>link</em></a> 
+          - EE585x <a href="https://courses.edx.org/certificates/user/14979173/course/course-v1:EPFLx+EE585x+1T2018" target="_blank" rel="nofollow"><em><u>"Space Mission Design and Operations"</u></em></a> 
+            offered by EPFLx (Ecole Polytechnique Federale de 
+            Lausanne through edX), 2017 
              
      
     
