@@ -94,11 +94,14 @@ education:
       time: 
       details: | 
       
-          - DA0101EN "Data Analysis with Python" offered by CognitiveClass, 2019 -
-            <a href="https://courses.cognitiveclass.ai/certificates/8320ce72bf9146ac8e06483a3504ffa5" target="_blank" rel="nofollow"><em>link</em></a> 
+          - Badge "Applied Data Science with Python - Level 2" issued by IBM (includes courses "Python for Datascience," 
+                    "Data Analysis with Python," "Data Visualization with Python") <a href="https://www.youracclaim.com/badges/489f135e-8d00-4dad-997e-b456f006d576/" target="_blank" rel="nofollow"><em>link</em></a> 
+      
+          #- DA0101EN "Data Analysis with Python" offered by CognitiveClass, 2019 -
+          #  <a href="https://courses.cognitiveclass.ai/certificates/8320ce72bf9146ac8e06483a3504ffa5" target="_blank" rel="nofollow"><em>link</em></a> 
                      
-          - DV0101EN "Visualizing Data with Python" offered by IBM through edX, 2019 - 
-            <a href="https://courses.edx.org/certificates/2eb85ada43dc45e8bf31c24e78ad4853" target="_blank" rel="nofollow"><em>link</em></a> 
+          #- DV0101EN "Visualizing Data with Python" offered by IBM through edX, 2019 - 
+          #  <a href="https://courses.edx.org/certificates/2eb85ada43dc45e8bf31c24e78ad4853" target="_blank" rel="nofollow"><em>link</em></a> 
                     
           - AE1110x "Introduction to Aeronautical Engineering" offered by DelftX (Delft University of Technology 
             through edX), 2018 - 
