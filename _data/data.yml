@@ -25,22 +25,22 @@ sidebar:
     goodreads: # Number-Username, e.g. 123456-alandoe
 
     languages:
-      - idiom: Russian
+      - idiom: <em>Russian</em>
         level: Native
 
-      - idiom: <a href="https://youtu.be/HtAhsuNhSgo" rel="nofollow"><em><u>French</u><em></a>
+      - idiom: <a href="https://youtu.be/HtAhsuNhSgo" rel="nofollow"><em><u>French</u></em></a>
         level: Professional
 
       - idiom: English
         level: Professional
          
-      - idiom: <a href="https://youtu.be/gMnPjgIik-4" rel="nofollow"><em><u>Hindi</u><em></a>
+      - idiom: <a href="https://youtu.be/gMnPjgIik-4" rel="nofollow"><em><u>Hindi</u></em></a>
         level: Intermediate   
 
-      - idiom: <a href="https://youtu.be/QZ6dW2L5wjQ" rel="nofollow"><em><u>Tamil</u><em></a>
+      - idiom: <a href="https://youtu.be/QZ6dW2L5wjQ" rel="nofollow"><em><u>Tamil</u></em></a>
         level: A2/B1
         
-      - idiom: <a href="https://youtu.be/kGS5rEATnls" rel="nofollow"><em><u>Bengali</u><em></a>
+      - idiom: <a href="https://youtu.be/kGS5rEATnls" rel="nofollow"><em><u>Bengali</u></em></a>
         level: A2/B1
         
     interests:
