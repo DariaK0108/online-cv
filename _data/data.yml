@@ -15,7 +15,7 @@ sidebar:
     email: daria.kuznetsova.aero.obs.mip AT gmail.com
     phone: # 012 345 6789
     website: # blog.webjeda.com #do not add http://
-    linkedin: # alandoe
+    linkedin: daria-kuznetsova-0108 # alandoe
     github: DariaK0108
     gitlab:
     bitbucket:
@@ -37,11 +37,11 @@ sidebar:
       - idiom: <a href="https://youtu.be/gMnPjgIik-4" rel="nofollow"><em><u>Hindi</u><em></a>
         level: Intermediate   
 
-      - idiom: Tamil
-        level: Basic, A2/B1
+      - idiom: <a href="https://youtu.be/QZ6dW2L5wjQ" rel="nofollow"><em><u>Tamil</u><em></a>
+        level: A2/B1
         
-      - idiom: Bengali
-        level: Basic, A2/B1
+      - idiom: <a href="https://youtu.be/kGS5rEATnls" rel="nofollow"><em><u>Bengali</u><em></a>
+        level: A2/B1
         
     interests:
       - item: Languages
@@ -50,7 +50,7 @@ sidebar:
       - item: <u>Photography</u>
         link: https://www.flickr.com/photos/daria-scientist/
 
-      - item: Web design
+      - item: Web development
         link:
       
       - item: <u>Creative coding</u>
@@ -94,7 +94,9 @@ education:
 
           - DSE220x "Machine Learning Fundamentals" offered by UCSanDiegoX (University of California, San Diego, through edX) - in progress 
     
-          - DMEDX6063 "Creative Coding" offered by NYUx (New York University through edx) - in progress
+          - CS50W "CS50's Web Programming with Python and JavaScript" offered by HarvardX (Harvard University through edX) - in progress
+    
+          - DMEDX6063 "Creative Coding" offered by NYUx (New York University through edx) 
 
           - ML0101ENv3 <a href="https://courses.cognitiveclass.ai/certificates/520459ed43954c4e85e361925838674d/" target="_blank" rel="nofollow"><em><u>"Machine Learning with Python"</u></em></a> offered by Cognitive Class, 2020
       
@@ -186,7 +188,7 @@ skills:
     title: Skills #&amp; Proficiency
 
     toolset:
-      - name: C/C++, Fortran, Python, Matlab, NCL, OpenFOAM, LaTeX, HTML
+      - name: C/C++, Fortran, Python (NumPy, Pandas, Flask), Matlab, NCL, LaTeX, HTML, CSS, JavaScript
         level:
         
        
